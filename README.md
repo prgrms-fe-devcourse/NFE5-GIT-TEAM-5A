@@ -168,6 +168,13 @@ npm run dev
 
 ---
 
+현은정
+김유하
+
+깃 특강 push 연습 !!! 나와라!!!!!!!
+
+
 ## 🤝 Contributing
 
 기여 방법은 [CONTRIBUTING.md](./CONTRIBUTING.md)를 참고해주세요.
+
